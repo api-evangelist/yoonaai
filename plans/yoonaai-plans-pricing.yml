@@ -1,0 +1,49 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.yoona.ai/pricing
+sources:
+- https://www.yoona.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: 'Annual billing discounts stated: €31,25 / month (Basic), €57,99/month (Basic+), €329,50/month (Premium).
+  Free 3-day trial.'
+plan_count: 4
+currency: EUR
+plans:
+- name: yoona.ai BASIC
+  price_text: 34.95€ / month
+  price: 34.95
+  currency: EUR
+  period: month
+  included_quota: 'AI Product Generations: 100* / month'
+  overage: Additional product generation credits available for purchases.
+- name: yoona.ai BASIC+
+  price_text: 64.95€ / month
+  price: 64.95
+  currency: EUR
+  period: month
+  included_quota: 'AI Product Generations: 200* / month'
+  overage: Additional product generation credits available for purchases.
+- name: yoona.ai PREMIUM
+  price_text: 369.95€ / month
+  price: 369.95
+  currency: EUR
+  period: month
+  included_quota: 'AI Product & On Model Generations: 500* / month; Team Access up to 3 users; Trend Report
+    Generations: 9 / month'
+  overage: Additional product generation credits available for purchases.
+- name: yoona.ai Enterprise
+  price_text: Custom
+  period: none
+  included_quota: Unlimited team access, Unlimited On Model Generations, Custom API Integrations (PLM,
+    ERP, DAM)
