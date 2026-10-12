@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/yoonaai/integrations
+- https://zapier.com/apps/yoona-ai/integrations
+- https://n8n.io/integrations/yoonaai/
+- https://composio.dev/toolkits/yoonaai
+- https://monid.ai/tools/yoonaai
+checked:
+- https://composio.dev/toolkits/yoonaai
+- https://monid.ai/tools/yoonaai
+- https://n8n.io/integrations/yoonaai/
+- https://zapier.com/apps/yoona-ai/integrations
+- https://zapier.com/apps/yoonaai/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
